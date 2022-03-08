@@ -1,3 +1,4 @@
+%%
 function [x,y,crossFlag]=Cross_oneFrame_November4(videoIn,cross_num,frameN,SearchThreshold)
 %This program serves as a core function to find a stimulus cross in a
 %stabilized AOSLO video. Crosses for IR, red, and green stimuli have
